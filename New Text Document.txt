@@ -1,0 +1,5 @@
+
+
+.\scripts\activate  // to activate virtual env
+
+(Web_Crawl) C:\Users\pc\Desktop\Web_Crawl\crawling\crawling>scrapy crawl celebrity
